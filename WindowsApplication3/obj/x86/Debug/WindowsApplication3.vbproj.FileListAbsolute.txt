@@ -1,0 +1,23 @@
+C:\Users\hoai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+C:\Users\hoai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\hoai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\fpoly\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+C:\Users\hoai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
